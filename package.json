@@ -4,7 +4,7 @@
   "description": "A Node.js library for accessing the Just Eat API",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test --timeout 10000"
+    "test": "mocha test --timeout 5000"
   },
   "repository": {
     "type": "git",
