@@ -22,7 +22,7 @@ justEat.restaurants({q: 'EC4M 7RF'}, function(error, response) {
   if(error) console.log(error);
   console.log(response);
 });
-
+```
 All functions can be found in the test/test.js file
 
 "# justeat-node"

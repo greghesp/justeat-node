@@ -1,6 +1,6 @@
 {
   "name": "justeat-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Node.js library for accessing the Just Eat API",
   "main": "index.js",
   "scripts": {
