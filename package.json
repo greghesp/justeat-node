@@ -1,0 +1,30 @@
+{
+  "name": "justeat-node",
+  "version": "0.0.1",
+  "description": "A Node.js library for accessing the Just Eat API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --timeout 10000"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "just-eat",
+    "just eat api",
+    "just eat",
+    "just eat node"
+  ],
+  "author": "Greg Hesp <greg.hesp@gmail.com> (http://www.greghesp.com)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-things": "^0.2.0",
+    "mocha": "^2.4.5",
+    "axios": "^0.16.2"
+  }
+}
