@@ -111,7 +111,7 @@ describe('Operations about restaurants', function() {
   });
 
   it("Gets restaurant menus for ID 11245", function(done) {
-    justEat.restaurantData(details, function(error, response) {
+    justEat.restaurantData(menus, function(error, response) {
       if(error) return done(error);
       done();
     });
